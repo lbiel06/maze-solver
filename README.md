@@ -15,7 +15,7 @@ On the top bar, choose "New" to load a new maze from a text file. The file must 
 #...#.#...#
 ###.#######
 ```
-If the maze is correct, it will be displayed on the screen. Click "Play" to start the animation.
+If the maze is valid, it will be displayed on the screen. Click "Play" to start the animation.
 ## Customization
 In [settings.json](settings.json) file you can change:
 * x, y - Starting position. Coordinates are zero-based.
