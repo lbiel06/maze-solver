@@ -1,7 +1,7 @@
-# A visualization of maze solving using the depth-first search algorithm
+# Visualization of maze solving using the depth-first search algorithm
 ![Demo](demo.png)
 ## How to use
-On the top bar, choose 'New' to load a new maze from a chosen text file. The file must consist of `.` for an empty field and `#` for a wall. The maze must have a square shape. For instance:
+On the top bar, choose "New" to load a new maze from a text file. The file must consist of `.` for an empty field and `#` for a wall. The maze must have a square shape. For example:
 ```
 ###########
 #.....#...#
